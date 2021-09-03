@@ -7,6 +7,10 @@ An extremely accurate and lightweight AI model could be a solution for this as i
 
 Hence keeping this in mind, this project aims to create a **deep learning based COVID-19 CT-Scan images classifier**.
 
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/51092051/132006234-1d286018-f6d1-44e4-a5cd-a317f6385a41.png">
+</p>
+
 ## Approach
 
 All deep learning tasks have pipelines which look quite similar to the below one:
@@ -77,4 +81,4 @@ Following were the results of the two approaches which I had taken:
 ## Conclusion
 
 Therefore as per the results stated above, a successful approach is heavily dependent on the dataset and given the dataset which was used here, transfer learning approach is definitely well suited-one.
-
+The best part about the approach used is that it provides close to perfect accuracy as well as is lightweight and easy to deploy.
